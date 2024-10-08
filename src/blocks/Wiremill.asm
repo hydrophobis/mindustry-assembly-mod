@@ -27,7 +27,7 @@ format binary as 'class'
 	_Test			constant_utf8		'TestBlock';13
 	Object_init		constant_methodref	Object_class,init_method;14
 	Object_class		constant_class		_block;15
-	_Object 		constant_utf8		'mindustry/world/blocks/defense/Wall';16
+	_Object 		constant_utf8		'mindustry/world/blocks/production/GenericCrafter';16
 	init_method		constant_nameandtype	_init,_void_string;17
 	_void			constant_utf8		'()V';18
 	Log_class		constant_class		_log;19
