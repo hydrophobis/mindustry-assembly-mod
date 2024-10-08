@@ -1,0 +1,8 @@
+{
+"name":"assembler",
+"displayName":"Assembler",
+"minGameVersion":142,
+"description":"I am the assembler, I assemble the mods",
+"java":true,
+"main":"Main"
+}
